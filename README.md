@@ -80,7 +80,7 @@ ways. This helped us better understand how these proteins might be involved in k
 cancer development.
 
 6) Machine learning models
-Machine learning
+   
 Machine learning (ML) is a branch of artificial intelligence that enables computers to
 learn patterns from data and make decisions or predictions without being explicitly
 programmed. In biomedical research, ML has emerged as a powerful tool for analyzing
@@ -103,3 +103,4 @@ regression model that linearly combines the techniques of Lasso (L1) and Ridge (
 regression, making it suitable for datasets with correlated predictors and more features
 than samples, as commonly seen in omics data. These models were selected for their
 complementary strengths in handling the characteristics of proteomic datasets
+
